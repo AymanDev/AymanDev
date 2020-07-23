@@ -1,4 +1,5 @@
-### Hello 👋 I'm Ayman
+### Hello 👋 I'm Ayman (or Aiman as you like)
+###### *Software Engineer*
 
 ![Menhera-chan Hello](https://i.pinimg.com/originals/03/1d/1c/031d1c30843683ff843a9fd52b5b5796.png)
 
@@ -13,9 +14,12 @@
 - 👯 I’m looking to collaborate on *discord.js*
 - 🤔 I’m looking for help with *design or gamedev* 😅
 - 💬 Ask me about *anything*
-- 📫 How to reach me: *[E-mail: aimandeveloper@gmail.com](mailto:aimandeveloper@gmail.com) or [Line ID: aymandeveloper](https://i.imgur.com/SBNGWWC.jpg)*
 - 😄 Pronouns: *He/him*
 - ⚡ Fun fact: *I love taking photos and my Nintendo Switch*
+
+## How to reach me
+[<img src="https://simpleicons.org/icons/linkedin.svg" alt='linkedin' height='50'>](https://www.linkedin.com/in/aymandev/) [<img src="https://simpleicons.org/icons/line.svg" alt='line' height='50'>](https://line.me/ti/p/MbYBV0P406) [<img src="https://simpleicons.org/icons/telegram.svg" alt='line' height='50'>](http://t.me/AymanDev) [<img src="https://simpleicons.org/icons/gmail.svg" alt='gmail' height='50'>](emailto:aimandeveloper@gmail.com)
+
 
 ## Life goals 📝
 - [X] Learn React.JS basics
