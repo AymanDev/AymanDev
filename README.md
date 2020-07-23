@@ -17,7 +17,7 @@
 - 😄 Pronouns: *He/him*
 - ⚡ Fun fact: *I love taking photos and my Nintendo Switch*
 
-## How to reach me
+## How to reach me 📪
 [<img src="https://simpleicons.org/icons/linkedin.svg" alt='linkedin' height='50'>](https://www.linkedin.com/in/aymandev/) [<img src="https://simpleicons.org/icons/line.svg" alt='line' height='50'>](https://line.me/ti/p/MbYBV0P406) [<img src="https://simpleicons.org/icons/telegram.svg" alt='line' height='50'>](http://t.me/AymanDev) [<img src="https://simpleicons.org/icons/gmail.svg" alt='gmail' height='50'>](emailto:aimandeveloper@gmail.com)
 
 
