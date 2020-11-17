@@ -5,7 +5,7 @@
 
 ## Techstack 🛠
 **Front-end:** *TypeScript/JavaScript, LESS/StyledComponents, React.JS, Redux.JS/MobX, webpack*  
-**Back-end:** *MongoDB, Express.JS, GraphQL/REST*  
+**Back-end:** *TypeScript/JavaScript, Express.JS, MongoDB, GraphQL/REST*  
 **Gamedev:** *Unity or Phaser/Excalibur.JS*
 
 ## Info ℹ️
