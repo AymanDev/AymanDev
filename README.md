@@ -9,9 +9,9 @@
 **Gamedev:** *Unity or Phaser/Excalibur.JS*
 
 ## Info ℹ️
-- 🔭 I’m currently working on *web application for gamers or collectors of some cool stuff*
-- 🌱 I’m currently learning *React 16.11+ and Redux, also Unity for gamedev*
-- 👯 I’m looking to collaborate on *discord.js*
+- 🔭 I’m currently working on *[Voxel Terrain](https://github.com/AymanDev/Voxel-Terrain) tool for unity*
+- 🌱 I’m currently learning *React 17.0+ and MobX, also Unity for gamedev*
+- 👯 I’m looking to collaborate on *the game on unity*
 - 🤔 I’m looking for help with *design or gamedev* 😅
 - 💬 Ask me about *anything*
 - 😄 Pronouns: *He/him*
@@ -26,6 +26,6 @@
 - [X] Learn Redux.JS basics
 - [X] Finish game with Unity *(created 2 games on hackathon)*
 - [ ] Finish personal medium/big web application
-- [ ] Move to Japan
+- [ ] Move to Asia region
 - [ ] Finish game alone
 - [ ] Finish game with online features
