@@ -9,7 +9,7 @@
 **Gamedev:** *Unity or Phaser/Excalibur.JS*
 
 ## Info ℹ️
-- 🔭 I’m currently working on *[Voxel Terrain](https://github.com/AymanDev/Voxel-Terrain) tool for unity*
+- 🔭 I’m currently working on *[Voxel Terrain](https://github.com/AymanDev/Voxel-Terrain) tool for unity* and *[Shefi](https://github.com/AymanDev/Shefi) discord chat bot*
 - 🌱 I’m currently learning *React 17.0+ and MobX, also Unity for gamedev*
 - 👯 I’m looking to collaborate on *the game on unity*
 - 🤔 I’m looking for help with *design or gamedev* 😅
