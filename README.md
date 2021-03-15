@@ -4,7 +4,7 @@
 ![Menhera-chan Hello](https://i.pinimg.com/originals/03/1d/1c/031d1c30843683ff843a9fd52b5b5796.png)
 
 ## Techstack 🛠
-**Front-end:** *TypeScript/JavaScript, LESS/StyledComponents, React.JS, Redux.JS/MobX, webpack*  
+**Front-end:** *TypeScript/JavaScript, LESS/SASS/StyledComponents, React.JS, Redux.JS/MobX, webpack*  
 **Back-end:** *TypeScript/JavaScript, Express.JS, MongoDB, GraphQL/REST*  
 **Gamedev:** *Unity or Phaser/Excalibur.JS*
 
@@ -25,6 +25,8 @@
 - [X] Learn React.JS basics
 - [X] Learn Redux.JS basics
 - [X] Finish game with Unity *(created 2 games on hackathon)*
+- [ ] Create discord chat bot and publish it to public
+- [ ] Move to Moscow
 - [ ] Finish personal medium/big web application
 - [ ] Move to Asia region
 - [ ] Finish game alone
