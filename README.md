@@ -18,7 +18,7 @@
 - ⚡ Fun fact: *I love taking photos and my Nintendo Switch*
 
 ## How to reach me 📪
-[<img src="https://img.icons8.com/android/50/0077b5/linkedin.png" alt='linkedin' height='50'>](https://www.linkedin.com/in/aymandev/) [<img src="https://img.icons8.com/ios-filled/50/00B900/line-me.png" alt='line' height='50'>](https://line.me/ti/p/MbYBV0P406) [<img src="https://img.icons8.com/ios-filled/50/0088CC/telegram-app.png" alt="telegram" height='50'>](http://t.me/AymanDev) 
+[<img src="https://img.icons8.com/android/45/0077b5/linkedin.png" alt='linkedin' height='45'>](https://www.linkedin.com/in/aymandev/) [<img src="https://img.icons8.com/ios-filled/50/00B900/line-me.png" alt='line' height='50'>](https://line.me/ti/p/MbYBV0P406) [<img src="https://img.icons8.com/ios-filled/50/0088CC/telegram-app.png" alt="telegram" height='50'>](http://t.me/AymanDev) 
 
 
 ## Life goals 📝
