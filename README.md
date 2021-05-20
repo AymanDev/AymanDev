@@ -26,7 +26,7 @@
 - [X] Learn Redux.JS basics
 - [X] Finish game with Unity *(created 2 games on hackathon)*
 - [ ] Create discord chat bot and publish it to public
-- [ ] Move to Moscow
+- [X] Move to Moscow
 - [ ] Finish personal medium/big web application
 - [ ] Move to Asia region
 - [ ] Finish game alone
