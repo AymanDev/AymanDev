@@ -25,8 +25,7 @@
 - [X] Learn React.JS basics
 - [X] Learn Redux.JS basics
 - [X] Finish game with Unity *(created 2 games on hackathon)*
-- [ ] Create discord chat bot and publish it to public
+- [ ] Implement store-managment library in any app
 - [ ] Finish personal medium/big web application
-- [ ] Move to Asia(Japan/South Korea/Singapore/Mainland China/HK) region
-- [ ] Finish game alone
+- [ ] Finish game
 - [ ] Finish game with online features
