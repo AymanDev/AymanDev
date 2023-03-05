@@ -4,12 +4,12 @@
 ![Menhera-chan Hello](https://i.pinimg.com/originals/03/1d/1c/031d1c30843683ff843a9fd52b5b5796.png)
 
 ## Techstack 🛠
-**Front-end:** *TypeScript/JavaScript, LESS/SASS/StyledComponents, React.JS, Redux.JS/MobX, webpack*  
+**Front-end:** *TypeScript/JavaScript, LESS/SASS/StyledComponents/CSS Modules, React.JS, Redux.JS/MobX, webpack*  
 **Back-end:** *TypeScript/JavaScript, Express.JS, MongoDB, GraphQL/REST*  
 **Gamedev:** *Unity or Phaser/Excalibur.JS*
 
 ## Info ℹ️
-- 🔭 I’m currently working on *[Voxel Terrain](https://github.com/AymanDev/Voxel-Terrain) tool for unity* and *[Shefi](https://github.com/AymanDev/Shefi) discord chat bot*
+- 🔭 I’m currently working on *[Korekuta](https://korekuta.ru) my perosonal website* and *[MetroCrafting](https://metrocrafting.korekuta.ru) indie online voxel game*
 - 🌱 I’m currently learning *React 17.0+ and MobX, also Unity for gamedev*
 - 👯 I’m looking to collaborate on *the game on unity*
 - 🤔 I’m looking for help with *design or gamedev* 😅
