@@ -6,7 +6,7 @@
 ## Techstack 🛠
 **Front-end:** *TypeScript/JavaScript, LESS/SASS/StyledComponents/CSS Modules, React.JS, Redux.JS/MobX, webpack, Fresh*  
 **Back-end:** *TypeScript/JavaScript, Express.JS, MongoDB, GraphQL/REST, Deno, Python 3, Rust*  
-**Gamedev:** *Unity, Godot or Phaser/Excalibur.JS*
+**Gamedev:** *Unity, Godot, Phaser, Excalibur or Babylon.JS*
 
 ## Info ℹ️
 - 🔭 I’m currently working on *[Korekuta](https://korekuta.ru) my perosonal website* and *[MetroCrafting](https://metrocrafting.korekuta.ru) indie online voxel game*
