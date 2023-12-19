@@ -13,8 +13,7 @@
 - 🌱 I’m currently learning *NeoVim and Rust to expand my knowledge and understanding of other languages*
 - 🤔 I’m looking for help with *design or gamedev* 😅
 - 💬 Ask me about *anything*
-- 😄 Pronouns: *He/him*
-- ⚡ Fun fact: *I love taking photos and my waifus*
+- ⚡ Fun fact: *I love taking photos and creating small games*
 
 ## How to reach me 📪
 [<img src="https://img.icons8.com/android/45/0077b5/linkedin.png" alt='linkedin' height='45'>](https://www.linkedin.com/in/aymandev/) [<img src="https://img.icons8.com/ios-filled/50/0088CC/telegram-app.png" alt="telegram">](http://t.me/AymanDev) 
