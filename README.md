@@ -1,16 +1,17 @@
 ### Hello 👋 I'm Ayman (or Aiman as you like)
-###### *Software Engineer*
+##### *Software Engineer working at [VK Group](https://vk.company/ru/)*
 
 ![Menhera-chan Hello](https://i.pinimg.com/originals/03/1d/1c/031d1c30843683ff843a9fd52b5b5796.png)
 
 ## Techstack 🛠
 **Front-end:** *TypeScript/JavaScript, LESS/SASS/StyledComponents/CSS Modules, React.JS, Redux.JS/MobX, webpack, Fresh*  
-**Back-end:** *TypeScript/JavaScript, Express.JS, MongoDB, GraphQL/REST, Deno, Python 3, Rust*  
-**Gamedev:** *Unity, Godot, Phaser, Excalibur or Babylon.JS*
+**Back-end:** *TypeScript/JavaScript/Rust, Express.JS, MongoDB, GraphQL/REST, Deno, Python 3, Rocket*  
+**Gamedev:** *Unity, Godot, Phaser, Excalibur, Babylon.JS, Bevy*  
+**Desktop:** *Front-end techstack + Rust and Tauri*
 
 ## Info ℹ️
-- 🔭 I’m currently working on *[Korekuta](https://korekuta.ru) my perosonal website* and *[MetroCrafting](https://metrocrafting.korekuta.ru) indie online voxel game*
-- 🌱 I’m currently learning *NeoVim and Rust to expand my knowledge and understanding of other languages*
+- 🔭 I’m currently working on *[Korekuta](https://korekuta.ru) my perosonal website*, *[OwlieLowi's Nightmare](https://owlielowi.korekuta.ru) game made in 1 month for [OwlieLowi](https://www.twitch.tv/owlielowi)* and *[MetroCrafting](https://metrocrafting.korekuta.ru) indie online voxel game*
+- 🌱 I’m currently learning *Rust and Bevy to expand my knowledge and understanding of non-GC languages*
 - 🤔 I’m looking for help with *design or gamedev* 😅
 - 💬 Ask me about *anything*
 - ⚡ Fun fact: *I love taking photos and creating small games*
@@ -27,8 +28,11 @@
 - [X] Implement virtual list with and w/o observer 
 - [X] Finish game
 - [X] Finish game with online features
-- [ ] Finish personal medium/big web application
-- [ ] Rewrite my medium application to Rust for learning
+- [X] Finish personal medium/big web application
+- [X] Rewrite my medium application to Rust for learning
+- [ ] Rewrite/Write game with full loop on Rust
+- [ ] Create 3d game with Bevy and Rust
+- [ ] Find a wife who will love and appreciate me and my goals *(i think its impossible)*
 
 
 ## Little info about me 🫶🏻
