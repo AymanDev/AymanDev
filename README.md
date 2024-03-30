@@ -10,7 +10,7 @@
 **Desktop:** *Front-end techstack + Rust and Tauri*
 
 ## Info ℹ️
-- 🔭 I’m currently working on *[Korekuta](https://korekuta.ru) my perosonal website*, *[OwlieLowi's Nightmare](https://owlielowi.korekuta.ru) game made in 1 month for [OwlieLowi](https://www.twitch.tv/owlielowi)* and *[MetroCrafting](https://metrocrafting.korekuta.ru) indie online voxel game*
+- 🔭 I’m currently working on *[Korekuta](https://korekuta.ru)* my perosonal website, some minor experiments in Unity and *[MetroCrafting](https://metrocrafting.korekuta.ru)* indie online voxel game
 - 🌱 I’m currently learning *Rust and Bevy to expand my knowledge and understanding of non-GC languages*
 - 🤔 I’m looking for help with *design or gamedev* 😅
 - 💬 Ask me about *anything*
